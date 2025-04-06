@@ -1,0 +1,24 @@
+{
+  "name": "5c_cicoria_progettochat",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavideCicoria/5C_Cicoria_progettoChat.git"
+  },
+  "author": "Davide Cicoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavideCicoria/5C_Cicoria_progettoChat/issues"
+  },
+  "homepage": "https://github.com/DavideCicoria/5C_Cicoria_progettoChat#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
